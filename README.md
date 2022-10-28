@@ -11,15 +11,24 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Git Bash
+Node Js
+
 ### Setup
+
+Open Git Bash and run git clone https://github.com/roodjinocherilus/Hello-Microverse.git
 
 ### Install
 
+Run npm install in the folder hello-microverse
+
 ### Usage
+
+Open The folder in your file explorer then, right click on index.html and open with your browser.
 
 ### Run tests
 
-### Deployment
+Run npx stylelint "**/*.{css,scss}"
 
 
 
